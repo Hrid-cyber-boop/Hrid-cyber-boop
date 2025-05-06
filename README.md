@@ -24,12 +24,6 @@ Wrote and completed a full-length novel, demonstrating storytelling, creativity,
 - **IELTS Tutor** – Bornil Academy  
   Helped students enhance their English proficiency for international exams with personalized guidance and test-taking strategies.
 
-- **Guest Teacher (IT)** – National Institute of Youth Development  
-  Delivered foundational IT education, fostering digital literacy among youth.
-
-- **Freelance Digital Marketer** – Jahangirnagar University  
-  Managed online visibility, audience targeting, and content optimization for institutional promotion.
-
 - **Model (Freelance)**  
   Participated in personal and collaborative projects to build a modeling portfolio with a focus on creative and fashion shoots.
 
@@ -48,5 +42,5 @@ Wrote and completed a full-length novel, demonstrating storytelling, creativity,
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/mashruralam/)
 - [Email](mailto:mashruralam00@gmail.com)
-- [Email](mailto:mashrur.alam@mohawkcollege.ca)
-- 
+- [Email-School](mailto:mashrur.alam@mohawkcollege.ca)
+  
