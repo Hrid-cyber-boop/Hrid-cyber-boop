@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Mashrur Alam (he/him)
+# 👋 Hey, I'm Mashrur Alam 
 🎓 Software Development Student | 💻 Mohawk College  
 🌍 Based in Canada | 🇧🇩 Originally from Bangladesh  
 🔒 Passionate about Web Dev, Cybersecurity, and AI
@@ -42,5 +42,5 @@ Wrote and completed a full-length novel, demonstrating storytelling, creativity,
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/mashruralam/)
 - [Email](mailto:mashruralam00@gmail.com)
-- [Email-School](mailto:mashrur.alam@mohawkcollege.ca)
+- [School-email](mailto:mashrur.alam@mohawkcollege.ca)
   
